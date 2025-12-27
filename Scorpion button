@@ -106,4 +106,4 @@ ToggleButton.MouseButton1Click:Connect(function()
     end
 end)
 
-print("Flame Toggle carregado! Assinatura: Thi")# Scorpion-
+print("Flame Toggle carregado! Assinatura: Thi")
